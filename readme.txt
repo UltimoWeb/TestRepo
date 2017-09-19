@@ -1,1 +1,1 @@
-Test file for GitFriday
+Test file for Git Friday
